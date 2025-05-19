@@ -1,0 +1,28 @@
+:: StoryTitle
+história
+
+
+:: StoryData
+{
+  "ifid": "D213DF7A-4779-4CA4-8152-1255F7DF73B6",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "1h",
+  "zoom": 1
+}
+
+
+:: 1h {"position":"600,200","size":"100,100"}
+Onde será que está a peça de arte?
+
+[[Na rua x->x]]
+[[Na rua y->y]]
+
+
+:: x {"position":"500,325","size":"100,100"}
+Não está aqui, procura na [[rua y->y]]
+
+
+
+:: y {"position":"700,325","size":"100,100"}
+Boa! Encontraste a peça!
